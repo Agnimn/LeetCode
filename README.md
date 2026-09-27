@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Agnimn/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Agnimn/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Agnimn/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Agnimn/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Agnimn/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Agnimn/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Agnimn/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Agnimn/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Agnimn/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Agnimn/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Agnimn/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Agnimn/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sliding Window
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Agnimn/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Agnimn/LeetCode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
