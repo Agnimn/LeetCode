@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Agnimn/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Agnimn/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Agnimn/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Agnimn/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Agnimn/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Agnimn/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Agnimn/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Agnimn/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Agnimn/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Agnimn/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Agnimn/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Agnimn/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Agnimn/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
