@@ -2,33 +2,39 @@ class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
 
+        vector<int> ans;
+        unordered_set<int> s;
+
         int n = grid.size();
-        int total = n * n;
+        int a, b;
 
-        vector<int> freq(total + 1, 0);
+        int expSum = 0, actualSum = 0;
 
-        // Count frequencies
+        // Traverse the entire grid
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                freq[grid[i][j]]++;
+
+                actualSum += grid[i][j];
+
+                // If number is already present, it is repeated
+                if (s.find(grid[i][j]) != s.end()) {
+                    a = grid[i][j];
+                    ans.push_back(a);
+                }
+
+                // Insert number into set
+                s.insert(grid[i][j]);
             }
         }
 
-        int repeated = -1;
-        int missing = -1;
+        // Expected sum of numbers from 1 to n²
+        expSum = (n * n) * (n * n + 1) / 2;
 
-        // Find repeated and missing numbers
-        for (int num = 1; num <= total; num++) {
+        // Find the missing number
+        b = expSum + a - actualSum;
 
-            if (freq[num] == 2) {
-                repeated = num;
-            }
+        ans.push_back(b);
 
-            if (freq[num] == 0) {
-                missing = num;
-            }
-        }
-
-        return {repeated, missing};
+        return ans;
     }
 };
